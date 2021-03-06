@@ -5,7 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <ссылка issue>
+* [Issue](https://github.com/Ilya-Erokhin/Homework_Java_1_1/issues/1)
 
 ## Описание процесса тестирования:
 
